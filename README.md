@@ -3,6 +3,8 @@
 
 Very Basic version of Facebook, has options such as adding to friends, chatting(implemented in SignalR), and more.
 
+(before running the project you need to unpack the facebook clone.7z and packages.7z files, I packed them because the file was too big for github)
+
 
 Technologies:
 
